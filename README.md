@@ -1,8 +1,6 @@
 # fun-list
-#### a sample repository
+#### The purpose of this repository is to practice using Git and GitHub.
 **fun**, not *boring* stuff to do
-
-The purpose of this repository is to practice using Git and GitHub.
 
 Example:
 * Look for movie on http://www.imdb.com
