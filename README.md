@@ -2,6 +2,8 @@
 #### a sample repository
 **fun**, not *boring* stuff to do
 
+The purpose of this repository is to practice using Git and GitHub.
+
 Example:
 * Look for movie on http://www.imdb.com
 * Watch video at [Vimeo](http://vimeo.com)
